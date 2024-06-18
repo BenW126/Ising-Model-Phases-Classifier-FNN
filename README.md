@@ -3,4 +3,4 @@ This statistical mechanics model aims to classify phases of the 2-dimensional (2
 
 For more information about the 2D Ising Model, here is the reference from Stanford University: http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf. This document covers the definition of the Ising model, solving the 1D Ising model, and the 2D Ising model, including its analytic solution, Monte Carlo simulation, and qualitative behavior.
 
-![An 2D Ising model with spins.](Ising.png)
+![An 2D Ising model with spins.](Ising.png =250x150)
