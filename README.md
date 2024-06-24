@@ -6,7 +6,7 @@ The 2D Ising model exhibits a phase transition at a **critical temperature ($T_c
 For more information about the 2D Ising Model, here is the reference from Stanford University: http://micro.stanford.edu/~caiwei/me334/Chap12_Ising_Model_v04.pdf. This document covers the definition of the Ising model, solving the 1D Ising model, and the 2D Ising model, including its analytic solution, Monte Carlo simulation, and qualitative behavior.
 
 ## Dataset and Network Structure
-The dataset consists of 6000 spin configurations of a 2D 10 x 10 grid Ising Model, obtained by Monte Carlo simulation. The spin configurations cover a temperature range from 0.2 to 4.0 with a step of 0.2, where temperatures below the critical temperature of $T_c$ were labeled as 1 (ordered phase), otherwise were labeled as 0 (disordered phase). Note that 1000 configurations were used for training, and the remaining 5000 configurations were for evaluating the trained model. 
+The dataset consists of 6000 spin configurations of a 2D 10 x 10 grid Ising Model, obtained by Monte Carlo simulation. The spin configurations cover a temperature range from 0.2 to 4.0, where temperatures below the critical temperature of $T_c$ were labeled as 1 (ordered phase), otherwise were labeled as 0 (disordered phase). Note that 1000 configurations were used for training, and the remaining 5000 configurations were for evaluating the trained model. 
 
 **Our network has an input layer of 100 neurons, a hidden layer of 3 neurons with sigmoid activations, and an output layer of 1 neuron, also with a sigmoid activation.**
 
