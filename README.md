@@ -11,4 +11,6 @@ The dataset consists of 6000 spin configurations of a 10 x 10 2D Ising model, ob
 Our network has an input layer of 100 neurons, a hidden layer of 3 neurons with sigmoid activations, and an output layer of 1 neuron, also with a sigmoid activation. 
 
 ## Results
-The first image shows the neural network's output as a function of temperature, while the second image shows the training and validation losses for the neural network model over the training epochs.
+The first image shows the neural network's output as a function of temperature, while the second image shows the training and validation losses for the neural network model over the training epochs. 
+
+![Losses](Losses.png) ![Results](Result.png)
