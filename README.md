@@ -15,4 +15,4 @@ The first image shows the training and validation losses for the neural network 
 * A scatter plot of the final output values of all 6000 configurations against temperature.
 * The mean value of all points with the same temperature.
 
-<img src="losses.png" width="400" height="320"/> <img src="result.png" width="400" height="320"/>
+<img src="img/losses.png" width="400" height="320"/> <img src="img/result.png" width="400" height="320"/>
