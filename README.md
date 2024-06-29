@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ising.jpg" width="700" alt="2D Ising model">
+  <img src="Ising.jpg" width="500" alt="2D Ising model">
 </p>
 
 ## Introduction
