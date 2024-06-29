@@ -1,5 +1,5 @@
 ## Introduction
-This statistical mechanics model aims to classify phases of the 2-dimensional (2D) 10 x 10 grid Ising Model of ferromagnetism using a **Feedforward Neural Network** (FNN) built from scratch with no PyTorch/TensorFlow. The FNN was trained on spin configurations from the 2D Ising model data provided by [Min Long](https://github.com/DavidGoing). 
+This statistical mechanics model aims to classify phases of the 2-dimensional (2D) 10 x 10 grid Ising model of ferromagnetism using a **Feedforward Neural Network** (FNN) built from scratch with no PyTorch/TensorFlow. The FNN was trained on spin configurations from the 2D Ising model data provided by [Min Long](https://github.com/DavidGoing). 
 
 The 2D Ising model exhibits a phase transition at a **critical temperature ($T_c ≈ 2.269$)**, transitioning from disordered paramagnetic phase at high temperatures to ordered ferromagnetic phase at low temperature, with spontaneous magnetization. Below the critical temperature, the spins spontaneously align, while above it, thermal fluctuations destroy the spontaneous magnetization.
 
