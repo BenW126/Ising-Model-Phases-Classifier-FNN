@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Ising.jpg" width="500" alt="2D Ising model">
-</p>
-
 ## Introduction
 This statistical mechanics model aims to classify phases of the 2-dimensional (2D) 10 x 10 grid Ising model of ferromagnetism using a **Feedforward Neural Network (FNN) built from scratch with no PyTorch/TensorFlow**. The FNN was trained on spin configurations from the 2D Ising model data provided by [Min Long](https://github.com/DavidGoing). 
 
