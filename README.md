@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/Ising.jpg" width="500" alt="2D Ising model">
+  <img src="images/Ising.jpg" width="500" alt="2D Ising model">
 </p>
 
 ## Introduction
@@ -19,4 +19,4 @@ The first image shows the training and validation losses for the neural network 
 * A scatter plot of the final output values of all 6000 configurations against temperature.
 * The mean value of all points with the same temperature.
 
-<img src="img/losses.png" width="400" height="320"/> <img src="img/result.png" width="400" height="320"/>
+<img src="images/losses.png" width="400" height="320"/> <img src="images/result.png" width="400" height="320"/>
